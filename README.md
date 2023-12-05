@@ -8,4 +8,4 @@
 
 <br/>
 
-<img src="https://blog-media.byjusfutureschool.com/bfs-blog/2021/11/12170200/HTML-for-Kids-Article-Page.png" width="600"/>
+<img src="https://blog-media.byjusfutureschool.com/bfs-blog/2021/11/12170200/HTML-for-Kids-Article-Page.png"/>
