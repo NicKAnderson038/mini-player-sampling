@@ -1,6 +1,7 @@
 # mini-player
 
+### To-Do's
 
-## To-Do's
-
-Convert into SvelteKit application
+1. <s>Fix responsive 🎨🐛</s>
+2. <s>Fix JS ⚙️🐛</s>
+3. Convert into SvelteKit application 🪄
